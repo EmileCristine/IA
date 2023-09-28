@@ -334,6 +334,19 @@ footer{
 .seta img{
     width: 30px;
 }
+@media (min-width: 1300px){
+    .left{
+        margin-top: 0;
+    }
+    
+    .right{
+        margin-top: 0;
+    }
+    
+    .right::after{
+        margin-top: 0;
+    }
+}
 
 @media (max-width: 999px){
     .nav-list li {
