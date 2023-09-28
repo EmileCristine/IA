@@ -334,7 +334,7 @@ footer{
 .seta img{
     width: 30px;
 }
-@media (min-width: 1300px){
+@media (min-width: 1000px){
     .left{
         margin-top: 0;
     }
