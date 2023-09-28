@@ -342,10 +342,6 @@ footer{
     .right{
         margin-top: 0;
     }
-    
-    .right::after{
-        margin-top: 0;
-    }
 }
 
 @media (max-width: 999px){
