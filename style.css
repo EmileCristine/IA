@@ -336,11 +336,11 @@ footer{
 }
 @media (min-width: 1000px){
     .left{
-        margin-top: 0;
+        margin-top: -10%;
     }
     
     .right{
-        margin-top: 0;
+        margin-top: -10%;
     }
 }
 
